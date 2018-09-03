@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bigMargin">16dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="rippleRadius">16dp</dimen>
+    <dimen name="rippleStrokeWidth">1dp</dimen>
+</resources>

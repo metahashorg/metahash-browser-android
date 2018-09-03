@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MetaGate</string>
+    <string name="meta_title">#MetaBrowser</string>
+    <string name="meta_title2">Mobile #MetaHash network browser</string>
+    <string name="search_hint">dApp address and search</string>
+    <string name="connecting">connecting…</string>
+    <string name="version">v %s</string>
+</resources>
