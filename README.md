@@ -1,5 +1,3 @@
-# metahash-browsers
+# metahash-browser for android
 
 metahash-browser-android
-
-metahash-browser-iOS
